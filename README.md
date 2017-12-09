@@ -1,1 +1,2 @@
-Модуль комментариев
+РњРѕРґСѓР»СЊ РєРѕРјРјРµРЅС‚Р°СЂРёРµРІ
+yii migrate --migrationPath=@vendor/dimm/comments/yii2/Migrations --interactive=0
